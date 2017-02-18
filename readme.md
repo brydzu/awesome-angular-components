@@ -98,7 +98,7 @@
 
 *Show a little dialog next to an element*
 
- - [angular-confirmation-popover](https://github.com/mattlewis92/angular-bootstrap-confirm) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
+ - [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 2.0+ bootstrap confirmation popover.
 
 ###### Menu
 
@@ -198,6 +198,7 @@
 
  - [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
  - [ng2-dnd-loudandwicked](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
+ - [angular-draggable-droppable](https://github.com/mattlewis92/angular-draggable-droppable) - Observable powered drag and drop for angular 2.0+
 
 ###### Masked Input
 
@@ -207,11 +208,12 @@
 
 *Show & edit events in a calendar view*
 
- - [angular2-calendar](https://github.com/mattlewis92/angular2-calendar) - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
+ - [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
 
 ###### Rich Text Editor
 
  - [ng2-ckeditor-codemirror](https://github.com/chymz/ng2-ckeditor) - Angular2 CKEditor component.
+ - [angular-highlight-js](https://github.com/mattlewis92/angular-highlight-js) - Highlight.js integration for angular 2.0+
 
 ###### File Upload
 
@@ -484,6 +486,7 @@
  - [generator-ng2-webpack](https://github.com/cmelion/generator-ng2-webpack) - An opinionated tool for scaffolding an app using angular2 and webpack.
  - [generator-modern-web-dev](https://github.com/dsebastien/modernWebDevGenerator) - A Yeoman generator for Modern Web development projects.
  - [generator-gulp-angular2](https://github.com/x6doooo/generator-gulp-angular2) - Yeoman generator for Angular2 + Gulp, base on angular2-seed and generator-gulp-angular.
+ - [generator-angular-library](https://github.com/mattlewis92/generator-angular-library) - A yeoman generator for scaffolding a new angular 2+ module that you can publish and share straight away to npm
  - [asaf-test](https://github.com/preboot/angular-library-seed) - Get started building an Angular library quickly.
  - [@manekinekko/angular-library-starter](https://github.com/manekinekko/angular-library-starter) - A Minimalist Starter for Angular (v2+) libraries (w/ AOT support).
  - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
